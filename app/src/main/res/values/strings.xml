@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">M Hike</string>
+    <string name="menu_delete">Delete</string>
+    <string name="add_hike">Add Hike</string>
+    <string name="edit_hike">Edit Hike</string>
+
+    <string name="string_add">Add</string>
+    <string name="string_yes">Yes</string>
+    <string name="string_no">No</string>
+    <string name="string_close">Close</string>
+    <string name="string_search">Search</string>
+
+    <string name="string_very_easy">Very Easy</string>
+    <string name="string_easy">Easy</string>
+    <string name="string_moderate">Moderate</string>
+    <string name="string_difficult">Difficult</string>
+    <string name="string_very_difficult">Very Difficult</string>
+
+    <string name="string_name">Name:<font color="red">*</font></string>
+    <string name="string_name_hint">Name of Hike</string>
+    <string name="string_location">Location:<font color="red">*</font></string>
+    <string name="string_location_hint">Location</string>
+    <string name="string_date">Date of Hike:<font color="red">*</font></string>
+    <string name="string_date_hint">dd/MM/yyyy</string>
+    <string name="string_parking">Parking Available:<font color="red">*</font></string>
+    <string name="string_length">Length:<font color="red">*</font></string>
+    <string name="string_level">Level:<font color="red">*</font></string>
+    <string name="string_start_point">Start Point</string>
+    <string name="string_number">Number:</string>
+    <string name="string_description">Description:</string>
+    <string name="string_description_hint">Description…</string>
+    <string name="string_observation">Observation:<font color="red">*</font></string>
+    <string name="string_observation_hint">Observation</string>
+    <string name="string_time">Time:<font color="red">*</font></string>
+    <string name="string_time_hint">HH:mm dd/MM/yyyy</string>
+    <string name="string_comment">Comment:</string>
+    <string name="string_comment_hint">Comment…</string>
+
+    <string name="zero">0</string>
+    <string name="save">Save</string>
+    <string name="observations">Observations</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="hike_info">Hike Info</string>
+
+    <string-array name="level_array">
+        <item>Very Easy</item>
+        <item>Easy</item>
+        <item>Moderate</item>
+        <item>Difficult</item>
+        <item>Very Difficult</item>
+    </string-array>
+</resources>
